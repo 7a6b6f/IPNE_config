@@ -1,6 +1,6 @@
-# IPNE_Language - Notepad++ Highlighter
-IP Newtork Engineer Language (IPNEL)/ Configuration files
+# IP Newtork Engineer Language (IPNEL)/ Configuration files
 
+Notepad++ Highlighter
 ==============================
 
 Just a simple language highlighter using network syntax(e.g. configuration files, cisco IOS etc.) for Notepad++.
