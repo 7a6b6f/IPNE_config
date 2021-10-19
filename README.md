@@ -16,20 +16,10 @@ Installation
 
 
  
-Without Highlighter
+With/Without Highlighter
 --------------------
 
 ![alt text](https://github.com/caerosin/IPNE_Language/blob/main/difference_ip_languagen%2B%2B.png)
 
 
-With IPNEL Highlighter
-----------------
 
-Check out g a dark theme.
-
-
- 
-Licence
--------
-
-[LGPL V2.1](https://github.com/caerosin/..../LICENSE.md)
