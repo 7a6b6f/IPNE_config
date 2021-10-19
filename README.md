@@ -19,7 +19,8 @@ Installation
 Without Highlighter
 --------------------
 
-![Screenshot of the highlighting with standard Twig highlighter.]
+![alt text](https://github.com/caerosin/IPNE_Language/blob/main/difference_ip_languagen%2B%2B.png)
+
 
 With IPNEL Highlighter
 ----------------
