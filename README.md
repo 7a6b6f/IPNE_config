@@ -1,4 +1,4 @@
-# IP Newtork Engineer Language (IPNEL) / Notepad++
+# IP Network Engineer Language (IPNEL) - config / Notepad++
 
 
 Just a simple language highlighter using network syntax(e.g. configuration files, cisco IOS etc.) for Notepad++.
