@@ -1,7 +1,20 @@
 # IP Network Engineer config Language (IPNE) for Notepad++
 
 
-Just a simple language highlighter using network syntax(e.g. configuration files, cisco IOS etc.) for Notepad++.
+Just a simple language highlighter using network syntax(e.g. configuration files, cisco IOS cli commands etc.) for Notepad++.
+
+Why using it?
+
+Creating a user-defined language in Notepad++ for configuration file can provide several benefits, including:
+
+Syntax highlighting: User-defined languages can be configured to highlight specific keywords, commands, and arguments, making it easier to quickly identify and understand the structure of the commands.
+
+Auto-completion: Some text editors, including Notepad++, can be configured to provide suggestions for command completion, which can speed up the process of entering commands and reduce the chance of errors.
+
+Consistency: By creating a user-defined language, you can standardize the format and structure of Cisco CLI commands, making them more readable and consistent across different users and teams.
+
+Productivity: All of the above features can increase productivity and make it easier to work with Cisco CLI commands, which can be complex and difficult to navigate without proper tooling.
+
 
 
 Installation
